@@ -1,7 +1,8 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import QuestbridgeLogo from './assets/questbridgeLogo.png'
+import AzureLogo from './assets/AzureLogo.webp'
+import CloudforceLogo from './assets/cloudforceLogo.png'
+import OpenAILogo from './assets/OpenAILogo.png'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -9,24 +10,38 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="https://www.questbridge.org" target="_blank">
+          <img src={QuestbridgeLogo} className="logo questbridge" alt="Questbridge logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>College Admissions</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        <h2 className="text-blue-500">
+          Making college admissions more equitable and accessible for all
+        </h2>
+        <div className="columns-3">
+          <a href="https://azure.microsoft.com/en-us/" target="_blank">
+            <img src={AzureLogo} className="logo azure" alt="Microsoft Azure logo" />
+          </a>
+          <a href="https://gocloudforce.com" target="_blank">
+            <img src={CloudforceLogo} className="logo cloudforce" alt="Cloudforce logo" />
+          </a>
+          <a href="https://openai.com" target="_blank">
+            <img src={OpenAILogo} className="logo openAI" alt="OpenAI logo" />
+          </a>
+        </div>
+        <h2>
+          Data-driven, backed by leading cloud and artificial intelligence solutions
+        </h2>
+        <div className="chatbot">
+          <h3>Try out our chatbot here</h3>
+          <button className="bg-sky-500 hover:bg-sky-700">
+            Ask me anything!
+          </button>
+        </div>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Learn more here
       </p>
     </>
   )
