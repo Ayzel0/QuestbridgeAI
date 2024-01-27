@@ -5,7 +5,6 @@ import CloudforceLogo from './assets/cloudforceLogo.png'
 import OpenAILogo from './assets/OpenAILogo.png'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
