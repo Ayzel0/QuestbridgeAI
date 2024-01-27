@@ -1,0 +1,167 @@
+Boston College COLLEGE NAME Boston College
+Boston College STATE MA
+Boston College COLLEGE TYPE Private
+Boston College COLLEGE SIZE Medium (2,000 - 15,000)
+Boston College COLLEGE SETTING Suburban
+Boston College ACCEPTANCE RATE 27%
+Boston College % FINANCIAL NEED MET 100%
+Boston College % STUDENTS OF COLOR 42%
+Boston College FLY-IN PROGRAM https://www.bc.edu/bc-web/sites/bc-experience.html
+Boston College VIRTUAL TOUR https://admission.bc.edu/portal/campusvisitvirtual?utm_source=visit_eecvbutton&utm_medium=website
+Boston College VIRTUAL INFO SESSION https://www.bc.edu/bc-web/admission/visit.html
+Boston College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Boston-College
+Boston College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/boston-college
+Boston College EARLY DECISION DEADLINE 12/15/2020
+Boston College EARLY DECISION II DEADLINE 1/1/2021
+Boston College REGULAR DECISION DEADLINE 1/1/2021
+Boston College APPLICATION TYPE Common Application
+Boston College TEST OPTIONAL DETAILS https://www.bc.edu/content/bc-web/admission/apply/test-optional.html
+Boston College UNDOCUMENTED STUDENTS INFO https://www.bc.edu/content/dam/files/offices/reslife/documents/announcements/2017%20-%20International%20&%20Undocumented%20BC%20Student%20Support.pdf
+Case Western Reserve University COLLEGE NAME Case Western Reserve University
+Case Western Reserve University STATE OH
+Case Western Reserve University COLLEGE TYPE Private
+Case Western Reserve University COLLEGE SIZE Medium (2,000 - 15,000)
+Case Western Reserve University COLLEGE SETTING Urban
+Case Western Reserve University ACCEPTANCE RATE 27%
+Case Western Reserve University % FINANCIAL NEED MET 100%
+Case Western Reserve University % STUDENTS OF COLOR 55%
+Case Western Reserve University FLY-IN PROGRAM https://go.case.edu/register/diversityovernight
+Case Western Reserve University VIRTUAL TOUR case.edu/admission/visits-events/virtual-tour
+Case Western Reserve University VIRTUAL INFO SESSION https://go.case.edu/portal/online-info
+Case Western Reserve University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Case-Western-Reserve-University
+Case Western Reserve University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/case-western-reserve-university
+Case Western Reserve University EARLY ACTION DEADLINE 11/1/2020
+Case Western Reserve University EARLY DECISION DEADLINE 11/1/2020
+Case Western Reserve University EARLY DECISION II DEADLINE 1/15/2021
+Case Western Reserve University REGULAR DECISION DEADLINE 1/15/2021
+Case Western Reserve University APPLICATION TYPE Common Application,Coalition Application
+Case Western Reserve University TEST OPTIONAL DETAILS https://case.edu/admission/apply/requirements-recommendations
+Case Western Reserve University UNDOCUMENTED STUDENTS INFO https://case.edu/immigrationupdates/resources-support/financial-aid-admissions
+College of the Holy Cross COLLEGE NAME College of the Holy Cross
+College of the Holy Cross STATE MA
+College of the Holy Cross COLLEGE TYPE Private
+College of the Holy Cross COLLEGE SIZE Medium (2,000 - 15,000)
+College of the Holy Cross COLLEGE SETTING Suburban
+College of the Holy Cross ACCEPTANCE RATE 34%
+College of the Holy Cross % FINANCIAL NEED MET 100%
+College of the Holy Cross % STUDENTS OF COLOR 30%
+College of the Holy Cross FLY-IN PROGRAM www.holycross.edu/visit/diversity-programming
+College of the Holy Cross VIRTUAL TOUR www.holycross.edu/visit/virtual-tour
+College of the Holy Cross VIRTUAL INFO SESSION https://admissions.holycross.edu/portal/campusvisit
+College of the Holy Cross COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/College-of-the-Holy-Cross
+College of the Holy Cross QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/college-of-the-holy-cross
+College of the Holy Cross EARLY DECISION DEADLINE 11/15/2020
+College of the Holy Cross EARLY DECISION II DEADLINE 1/15/2021
+College of the Holy Cross REGULAR DECISION DEADLINE 1/15/2021
+College of the Holy Cross APPLICATION TYPE Common Application,Coalition Application
+College of the Holy Cross TEST OPTIONAL DETAILS https://www.holycross.edu/admissions-aid/what-we-look-for#:~:text=Standardized%20Testing%20Policy,not%20to%20submit%20your%20scores.
+College of the Holy Cross UNDOCUMENTED STUDENTS INFO https://www.holycross.edu/campus-life/diversity-and-inclusion/additional-resources/undocumented-resources
+Denison University COLLEGE NAME Denison University
+Denison University STATE OH
+Denison University COLLEGE TYPE Private
+Denison University COLLEGE SIZE Medium (2,000 - 15,000)
+Denison University COLLEGE SETTING Suburban
+Denison University ACCEPTANCE RATE 29%
+Denison University % FINANCIAL NEED MET 100%
+Denison University % STUDENTS OF COLOR 38%
+Denison University FLY-IN PROGRAM https://denison.edu/campus/admission/dialogue-with-denison
+Denison University VIRTUAL TOUR www.youvisit.com/tour/brownsd/denison_first_year
+Denison University VIRTUAL INFO SESSION https://connect.denison.edu/portal/infosession
+Denison University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Denison-University
+Denison University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/denison-university
+Denison University COLLEGES THAT CHANGE LIVES https://ctcl.org/denison-university/
+Denison University EARLY DECISION DEADLINE 11/15/2020
+Denison University EARLY DECISION II DEADLINE 1/15/2021
+Denison University REGULAR DECISION DEADLINE 1/15/2021
+Denison University APPLICATION TYPE Common Application,Coalition Application
+Denison University TEST OPTIONAL DETAILS https://denison.edu/forms/test-optional-policy
+Denison University UNDOCUMENTED STUDENTS INFO https://denison.edu/campus/president/speeches/87886
+Macalester College COLLEGE NAME Macalester College
+Macalester College STATE MN
+Macalester College COLLEGE TYPE Private
+Macalester College COLLEGE SIZE Small (<2,000)
+Macalester College COLLEGE SETTING Urban
+Macalester College ACCEPTANCE RATE 32%
+Macalester College % FINANCIAL NEED MET 100%
+Macalester College % STUDENTS OF COLOR 43%
+Macalester College VIRTUAL TOUR map.concept3d.com/?id=211#!t/1277:1/
+Macalester College VIRTUAL INFO SESSION https://admissions.macalester.edu/portal/virtual_visit
+Macalester College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Macalester-College
+Macalester College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/macalester-college
+Macalester College EARLY DECISION DEADLINE 11/15/2020
+Macalester College EARLY DECISION II DEADLINE 1/1/2021
+Macalester College REGULAR DECISION DEADLINE 1/15/2021
+Macalester College APPLICATION TYPE Common Application
+Macalester College TEST OPTIONAL DETAILS https://www.macalester.edu/admissions/us-admissions/faq/testing-policy/
+Macalester College UNDOCUMENTED STUDENTS INFO https://www.macalester.edu/admissions/us-admissions/undocumented/#:~:text=Financial%20Aid%20Policy&text=The%20College%20meets%20100%25%20of,typically%20earned%20through%20student%20employment.
+Oberlin College COLLEGE NAME Oberlin College
+Oberlin College STATE OH
+Oberlin College COLLEGE TYPE Private
+Oberlin College COLLEGE SIZE Medium (2,000 - 15,000)
+Oberlin College COLLEGE SETTING Rural
+Oberlin College ACCEPTANCE RATE 36%
+Oberlin College % FINANCIAL NEED MET 100%
+Oberlin College % STUDENTS OF COLOR 39%
+Oberlin College FLY-IN PROGRAM https://www.oberlin.edu/admissions-and-aid/campus-visits/visit-programs
+Oberlin College VIRTUAL TOUR https://www.oberlin.edu/admissions-and-aid/campus-visits
+Oberlin College VIRTUAL INFO SESSION https://www.oberlin.edu/admissions-and-aid/campus-visits
+Oberlin College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Oberlin-College
+Oberlin College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/oberlin-college
+Oberlin College EARLY DECISION DEADLINE 11/15/2020
+Oberlin College EARLY DECISION II DEADLINE 1/2/2021
+Oberlin College REGULAR DECISION DEADLINE 1/15/2021
+Oberlin College APPLICATION TYPE Common Application,Coalition Application
+Oberlin College TEST OPTIONAL DETAILS https://www.oberlin.edu/admissions-and-aid/arts-and-sciences/first-year-applicants#app-step-3
+Oberlin College UNDOCUMENTED STUDENTS INFO https://www.oberlin.edu/news/admissions-policy-undocumented-students-approved#:~:text=Oberlin%20College%20considers%20undocumented%20students,are%20particularly%20encouraged%20to%20apply.
+Scripps College COLLEGE NAME Scripps College
+Scripps College STATE CA
+Scripps College COLLEGE TYPE Private,All Women's College
+Scripps College COLLEGE SIZE Small (<2,000)
+Scripps College COLLEGE SETTING Suburban
+Scripps College ACCEPTANCE RATE 32%
+Scripps College % FINANCIAL NEED MET 100%
+Scripps College % STUDENTS OF COLOR 47%
+Scripps College FLY-IN PROGRAM http://www.scrippscollege.edu/admission/discoverscripps
+Scripps College VIRTUAL TOUR https://www.scrippscollege.edu/admission/visit
+Scripps College VIRTUAL INFO SESSION https://www.scrippscollege.edu/admission/visit#collapse1
+Scripps College COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/scripps-college
+Scripps College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/scripps-college
+Scripps College EARLY DECISION DEADLINE 11/15/2020
+Scripps College EARLY DECISION II DEADLINE 1/5/2021
+Scripps College REGULAR DECISION DEADLINE 1/5/2021
+Scripps College APPLICATION TYPE Common Application
+Scripps College TEST OPTIONAL DETAILS https://www.scrippscollege.edu/admission/admission-announcements#:~:text=On%20March%206%2C%202020%2C%20the,scores%20optional%20for%20all%20applicants.&text=This%20decision%20supports%20the%20College's,who%20will%20thrive%20at%20Scripps.
+Scripps College UNDOCUMENTED STUDENTS INFO https://www.scrippscollege.edu/diversity/news/support-and-resources-for-daca-students
+Skidmore College COLLEGE NAME Skidmore College
+Skidmore College STATE NY
+Skidmore College COLLEGE TYPE Private
+Skidmore College COLLEGE SIZE Medium (2,000 - 15,000)
+Skidmore College COLLEGE SETTING Suburban
+Skidmore College ACCEPTANCE RATE 30%
+Skidmore College % FINANCIAL NEED MET 100%
+Skidmore College % STUDENTS OF COLOR 38%
+Skidmore College VIRTUAL TOUR www.skidmore.edu/admissions/visit/youvisit.php#virtualtour
+Skidmore College VIRTUAL INFO SESSION https://www.skidmore.edu/admissions/visit/schedule.php
+Skidmore College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Skidmore-College
+Skidmore College EARLY DECISION DEADLINE 11/15/2020
+Skidmore College REGULAR DECISION DEADLINE 1/15/2021
+Skidmore College APPLICATION TYPE Common Application
+Skidmore College TEST OPTIONAL DETAILS https://www.skidmore.edu/admissions/apply/checklist.php#:~:text=Skidmore%20College%20is%20test%2Doptional,best%20represent%20their%20academic%20potential.
+Skidmore College UNDOCUMENTED STUDENTS INFO https://www.skidmore.edu/admissions/international/faqs.php#:~:text=Skidmore%20College%20accepts%20applications%20from,students%2C%20regardless%20of%20citizenship%20status.
+Smith College COLLEGE NAME Smith College
+Smith College STATE MA
+Smith College COLLEGE TYPE Private,All Women's College
+Smith College COLLEGE SIZE Medium (2,000 - 15,000)
+Smith College COLLEGE SETTING Suburban
+Smith College ACCEPTANCE RATE 32%
+Smith College % FINANCIAL NEED MET 100%
+Smith College % STUDENTS OF COLOR 51%
+Smith College FLY-IN PROGRAM https://www.smith.edu/admission-aid/explore-admission-aid/women-distinction-program
+Smith College VIRTUAL TOUR https://campustours.com/college/167835/Smith-College
+Smith College VIRTUAL INFO SESSION https://www.smith.edu/admission-aid/tours-info
+Smith College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Smith-College
+Smith College EARLY DECISION DEADLINE 11/15/2020
+Smith College REGULAR DECISION DEADLINE 1/15/2021
+Smith College APPLICATION TYPE Common Application,Coalition Application
+Smith College TEST OPTIONAL DETAILS https://www.smith.edu/admission-aid/criteria#:~:text=Smith%20is%20test%20optional%20for,about%20our%20standardized%20testing%20policy.
+Smith College UNDOCUMENTED STUDENTS INFO https://www.smith.edu/about-smith/sfs/financial-aid/undocumented

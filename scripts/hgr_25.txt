@@ -1,0 +1,652 @@
+Amherst College COLLEGE NAME Amherst College
+Amherst College STATE MA
+Amherst College COLLEGE TYPE Private
+Amherst College COLLEGE SIZE Small (<2,000)
+Amherst College COLLEGE SETTING Rural
+Amherst College ACCEPTANCE RATE 11%
+Amherst College % FINANCIAL NEED MET 100%
+Amherst College % STUDENTS OF COLOR 57%
+Amherst College FLY-IN PROGRAM https://www.amherst.edu/admission/diversity/a2a
+Amherst College VIRTUAL TOUR https://map.concept3d.com/?id=750#!t/1270:1
+Amherst College VIRTUAL INFO SESSION https://www.amherst.edu/admission/visit
+Amherst College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Amherst-College
+Amherst College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/amherst-college
+Amherst College EARLY DECISION DEADLINE 11/1/2020
+Amherst College REGULAR DECISION DEADLINE 1/4/2021
+Amherst College APPLICATION TYPE Common Application,Coalition Application
+Amherst College TEST OPTIONAL DETAILS https://www.amherst.edu/admission/apply/firstyear/testing#:~:text=Required%20Standardized%20Testing&text=SAT%20or%20ACT%20Testing%3A%20In,or%20ACT%20scores%20is%20optional.
+Amherst College UNDOCUMENTED STUDENTS INFO https://www.amherst.edu/admission/apply/firstyear/undoc
+Barnard College COLLEGE NAME Barnard College
+Barnard College STATE NY
+Barnard College COLLEGE TYPE Private,All Women's College
+Barnard College COLLEGE SIZE Medium (2,000 - 15,000)
+Barnard College COLLEGE SETTING Urban
+Barnard College ACCEPTANCE RATE 12%
+Barnard College % FINANCIAL NEED MET 100%
+Barnard College % STUDENTS OF COLOR 50%
+Barnard College FLY-IN PROGRAM https://admissions.barnard.edu/admissions/barnardbound
+Barnard College VIRTUAL TOUR https://www.youtube.com/watch?v=sx8Wsrq--Pk
+Barnard College VIRTUAL INFO SESSION https://connect.barnard.edu/portal/barnardonline
+Barnard College COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/barnard-college
+Barnard College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/barnard-college
+Barnard College EARLY DECISION DEADLINE 11/1/2020
+Barnard College REGULAR DECISION DEADLINE 1/1/2021
+Barnard College APPLICATION TYPE Common Application
+Barnard College TEST OPTIONAL DETAILS http://bulletin.columbia.edu/barnard-college/admissions/#:~:text=Barnard%20requires%20all%20candidates%20to,will%20consider%20them%20if%20submitted.&text=The%20SAT%20tests%20code%20number%20for%20Barnard%20is%202038.
+Barnard College UNDOCUMENTED STUDENTS INFO https://barnard.edu/admissions/undocumented#:~:text=The%20College%20is%20committed%20to,during%20their%20matriculation%20at%20Barnard.&text=Undocumented%20and%20DACA%20applicants%20follow,applicants%20from%20US%20high%20schools.
+Boston University COLLEGE NAME Boston University
+Boston University STATE MA
+Boston University COLLEGE TYPE Private
+Boston University COLLEGE SIZE Large (15,000 - 25,000)
+Boston University COLLEGE SETTING Urban
+Boston University ACCEPTANCE RATE 19%
+Boston University % FINANCIAL NEED MET 93%
+Boston University % STUDENTS OF COLOR 64%
+Boston University FLY-IN PROGRAM https://www.bu.edu/admissions/boston-overnight/
+Boston University VIRTUAL TOUR https://boston.university-tour.com/
+Boston University VIRTUAL INFO SESSION https://www.bu.edu/admissions/visit-us/virtual-events/
+Boston University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Boston-University
+Boston University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/boston-university
+Boston University EARLY DECISION DEADLINE 11/1/2020
+Boston University EARLY DECISION II DEADLINE 1/1/2021
+Boston University REGULAR DECISION DEADLINE 1/1/2021
+Boston University APPLICATION TYPE Coalition Application,Common Application
+Boston University TEST OPTIONAL DETAILS http://www.bu.edu/admissions/apply/first-year/#:~:text=or%20Coalition%20Application.-,Standardized%20Tests,well%20as%20all%20scholarship%20programs.
+Boston University UNDOCUMENTED STUDENTS INFO https://www.bu.edu/isso/undocumented-individuals/#:~:text=There%20are%20currently%20no%20state,of%20undocumented%20students%20on%20campus.
+Bowdoin College COLLEGE NAME Bowdoin College
+Bowdoin College STATE ME
+Bowdoin College COLLEGE TYPE Private
+Bowdoin College COLLEGE SIZE Small (<2,000)
+Bowdoin College COLLEGE SETTING Suburban
+Bowdoin College ACCEPTANCE RATE 9%
+Bowdoin College % FINANCIAL NEED MET 100%
+Bowdoin College % STUDENTS OF COLOR 41%
+Bowdoin College FLY-IN PROGRAM https://www.bowdoin.edu/admissions/visit/explore-bowdoin/?utm_source=mailer&utm_medium=print&utm_campaign=admissions
+Bowdoin College VIRTUAL TOUR https://www.bowdoin.edu/admissions/visit/virtual-tour/index.html
+Bowdoin College VIRTUAL INFO SESSION https://admissions.bowdoin.edu/portal/virtual
+Bowdoin College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Bowdoin-College
+Bowdoin College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/bowdoin-college
+Bowdoin College EARLY DECISION DEADLINE 11/15/2020
+Bowdoin College EARLY DECISION II DEADLINE 1/1/2021
+Bowdoin College REGULAR DECISION DEADLINE 1/1/2021
+Bowdoin College APPLICATION TYPE Coalition Application,Common Application
+Bowdoin College TEST OPTIONAL DETAILS https://www.bowdoin.edu/admissions/our-process/test-optional-policy/index.html
+Bowdoin College UNDOCUMENTED STUDENTS INFO https://www.bowdoin.edu/student-aid/apply-for-aid/undocumented-students.html
+Brown University COLLEGE NAME Brown University
+Brown University STATE RI
+Brown University COLLEGE TYPE Private
+Brown University COLLEGE SIZE Medium (2,000 - 15,000)
+Brown University COLLEGE SETTING Urban
+Brown University ACCEPTANCE RATE 7%
+Brown University % FINANCIAL NEED MET 100%
+Brown University % STUDENTS OF COLOR 57%
+Brown University VIRTUAL TOUR https://apply.college.brown.edu/portal/hosted_virtual_tour
+Brown University VIRTUAL INFO SESSION https://admission.brown.edu/visit/information-session
+Brown University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Brown-University
+Brown University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/brown-university
+Brown University EARLY DECISION DEADLINE 11/1/2020
+Brown University REGULAR DECISION DEADLINE 1/1/2021
+Brown University APPLICATION TYPE Common Application
+Brown University TEST OPTIONAL DETAILS https://admission.brown.edu/first-year/standardized-tests#:~:text=For%20first%2Dyear%20applicants%20in,Brown%20is%20now%20test%20optional.&text=Standardized%20testing%20is%20optional%20for,submission%20of%20SAT%20Subject%20Tests.
+Brown University UNDOCUMENTED STUDENTS INFO https://www.brown.edu/ufli/programs-and-services/undocumented-student-program
+California Institute of Technology COLLEGE NAME California Institute of Technology
+California Institute of Technology STATE CA
+California Institute of Technology COLLEGE TYPE Private
+California Institute of Technology COLLEGE SIZE Small (<2,000)
+California Institute of Technology COLLEGE SETTING Suburban
+California Institute of Technology ACCEPTANCE RATE 6%
+California Institute of Technology % FINANCIAL NEED MET 100%
+California Institute of Technology % STUDENTS OF COLOR 73%
+California Institute of Technology FLY-IN PROGRAM https://www.caltech.edu/campus-life-events/master-calendar/caltech-up-close-86852
+California Institute of Technology VIRTUAL TOUR https://poly.google.com/view/6Z_av5XpYbq
+California Institute of Technology COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/california-institute-of-technology
+California Institute of Technology QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/california-institute-of-technology
+California Institute of Technology EARLY ACTION DEADLINE 11/1/2020
+California Institute of Technology REGULAR DECISION DEADLINE 1/3/2021
+California Institute of Technology APPLICATION TYPE Common Application,Coalition Application
+California Institute of Technology TEST OPTIONAL DETAILS https://www.admissions.caltech.edu/apply/first-yearfreshman-applicants/standardized-tests
+California Institute of Technology UNDOCUMENTED STUDENTS INFO https://www.finaid.caltech.edu/Applying/international-students
+Carleton College COLLEGE NAME Carleton College
+Carleton College STATE MN
+Carleton College COLLEGE TYPE Private
+Carleton College COLLEGE SIZE Medium (2,000 - 15,000)
+Carleton College COLLEGE SETTING Rural
+Carleton College ACCEPTANCE RATE 19%
+Carleton College % FINANCIAL NEED MET 100%
+Carleton College % STUDENTS OF COLOR 42%
+Carleton College FLY-IN PROGRAM www.carleton.edu/admissions/visit/toc/
+Carleton College VIRTUAL TOUR apps.carleton.edu/campus/tour
+Carleton College VIRTUAL INFO SESSION https://airtable.com/
+Carleton College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Carleton-College
+Carleton College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/carleton-college
+Carleton College EARLY DECISION DEADLINE 11/15/2020
+Carleton College EARLY DECISION II DEADLINE 1/15/2021
+Carleton College REGULAR DECISION DEADLINE 1/15/2021
+Carleton College APPLICATION TYPE Common Application,Coalition Application
+Carleton College TEST OPTIONAL DETAILS https://www.carleton.edu/admissions/apply/steps/criteria/#:~:text=Carleton%20is%20adopting%20a%20test,you%20may%20still%20submit%20them.&text=If%20you%20decide%20to%20submit,the%20SAT%20or%20the%20ACT.
+Carleton College UNDOCUMENTED STUDENTS INFO https://www.carleton.edu/admissions/apply/steps/international/undocumented/#:~:text=We%20consider%20applications%20from%20all,considered%20among%20our%20international%20applicants.
+Claremont McKenna College COLLEGE NAME Claremont McKenna College
+Claremont McKenna College STATE CA
+Claremont McKenna College COLLEGE TYPE Private
+Claremont McKenna College COLLEGE SIZE Small (<2,000)
+Claremont McKenna College COLLEGE SETTING Suburban
+Claremont McKenna College ACCEPTANCE RATE 10%
+Claremont McKenna College % FINANCIAL NEED MET 100%
+Claremont McKenna College % STUDENTS OF COLOR 59%
+Claremont McKenna College FLY-IN PROGRAM https://www.cmc.edu/admission/visit/diversityflyin
+Claremont McKenna College VIRTUAL TOUR https://www.youvisit.com/tour/claremont/claremont?tourid=tour1
+Claremont McKenna College VIRTUAL INFO SESSION https://connect.cmc.edu/portal/onlineinfosession
+Claremont McKenna College COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/claremont-mckenna-college
+Claremont McKenna College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/claremont-mckenna-college
+Claremont McKenna College EARLY DECISION DEADLINE 11/1/2022
+Claremont McKenna College REGULAR DECISION DEADLINE 1/5/2023
+Claremont McKenna College APPLICATION TYPE Common Application,Coalition Application
+Claremont McKenna College TEST OPTIONAL DETAILS https://www.cmc.edu/admission#:~:text=CMC%20adopts%20SAT%2C%20ACT%20test,applicants%20for%20fall%202021%20admission.
+Claremont McKenna College UNDOCUMENTED STUDENTS INFO https://www.cmc.edu/dean-of-students/faq-related-to-daca-students-at-claremont-mckenna-college
+Colby College COLLEGE NAME Colby College
+Colby College STATE ME
+Colby College COLLEGE TYPE Private
+Colby College COLLEGE SIZE Small (<2,000)
+Colby College COLLEGE SETTING Rural
+Colby College ACCEPTANCE RATE 10%
+Colby College % FINANCIAL NEED MET 100%
+Colby College % STUDENTS OF COLOR 39%
+Colby College VIRTUAL TOUR https://www.youvisit.com/tour/colby
+Colby College VIRTUAL INFO SESSION https://admissions.colby.edu/portal/campus-visit
+Colby College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Colby-College
+Colby College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/colby-college
+Colby College EARLY DECISION DEADLINE 11/15/2020
+Colby College EARLY DECISION II DEADLINE 1/1/2021
+Colby College REGULAR DECISION DEADLINE 1/1/2021
+Colby College APPLICATION TYPE Common Application,Coalition Application
+Colby College TEST OPTIONAL DETAILS https://www.colby.edu/admission/apply/first-year-faq/#:~:text=Colby%20is%20a%20test%20optional,Subject%20Test%20scores%20are%20permitted.
+Colby College UNDOCUMENTED STUDENTS INFO https://www.colby.edu/admission/admissions-and-financial-aid-requirements/#undocumented
+Columbia University COLLEGE NAME Columbia University
+Columbia University STATE NY
+Columbia University COLLEGE TYPE Private
+Columbia University COLLEGE SIZE Medium (2,000 - 15,000)
+Columbia University COLLEGE SETTING Urban
+Columbia University ACCEPTANCE RATE 5%
+Columbia University % FINANCIAL NEED MET 100%
+Columbia University % STUDENTS OF COLOR 67%
+Columbia University FLY-IN PROGRAM https://undergrad.admissions.columbia.edu/ce2
+Columbia University VIRTUAL TOUR https://undergrad.admissions.columbia.edu/visit/virtual-tours
+Columbia University VIRTUAL INFO SESSION https://apply.college.columbia.edu/portal/virtual_visit
+Columbia University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Columbia-University-in-the-City-of-New-York
+Columbia University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/columbia-university
+Columbia University EARLY DECISION DEADLINE 11/1/2020
+Columbia University REGULAR DECISION DEADLINE 1/1/2021
+Columbia University APPLICATION TYPE Common Application,Coalition Application
+Columbia University TEST OPTIONAL DETAILS https://undergrad.admissions.columbia.edu/content/revised-testing-policy-2020-2021
+Columbia University UNDOCUMENTED STUDENTS INFO https://undergrad.admissions.columbia.edu/apply/first-year/undocumented-students
+Dartmouth College COLLEGE NAME Dartmouth College
+Dartmouth College STATE NH
+Dartmouth College COLLEGE TYPE Private
+Dartmouth College COLLEGE SIZE Medium (2,000 - 15,000)
+Dartmouth College COLLEGE SETTING Rural
+Dartmouth College ACCEPTANCE RATE 8%
+Dartmouth College % FINANCIAL NEED MET 100%
+Dartmouth College % STUDENTS OF COLOR 49%
+Dartmouth College FLY-IN PROGRAM https://admissions.dartmouth.edu/visit/visitation-programs/dartmouth-bound-summer-program
+Dartmouth College VIRTUAL TOUR https://admissions.dartmouth.edu/visit/campus-tours#
+Dartmouth College VIRTUAL INFO SESSION https://apply.dartmouth.edu/portal/campus-visit
+Dartmouth College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Dartmouth-College
+Dartmouth College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/dartmouth-college
+Dartmouth College EARLY DECISION DEADLINE 11/1/2020
+Dartmouth College REGULAR DECISION DEADLINE 1/2/2021
+Dartmouth College APPLICATION TYPE Common Application
+Dartmouth College TEST OPTIONAL DETAILS https://admissions.dartmouth.edu/glossary-term/standardized-testing#:~:text=Dartmouth%20College%20is%20test%20optional%20for%20the%20Class%20of%202025.&text=Testing%20is%20required%2C%20but%20it,Admissions%20in%20evaluating%20an%20application.
+Dartmouth College UNDOCUMENTED STUDENTS INFO https://admissions.dartmouth.edu/glossary-term/undocumented-students
+Duke University COLLEGE NAME Duke University
+Duke University STATE NC
+Duke University COLLEGE TYPE Private
+Duke University COLLEGE SIZE Medium (2,000 - 15,000)
+Duke University COLLEGE SETTING Suburban
+Duke University ACCEPTANCE RATE 9%
+Duke University % FINANCIAL NEED MET 100%
+Duke University % STUDENTS OF COLOR 56%
+Duke University VIRTUAL TOUR https://www.youvisit.com/tour/duke
+Duke University VIRTUAL INFO SESSION https://admiss.ugrad.duke.edu/portal/visits
+Duke University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Duke-University
+Duke University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/duke-university
+Duke University EARLY DECISION DEADLINE 11/2/2020
+Duke University REGULAR DECISION DEADLINE 1/4/2021
+Duke University APPLICATION TYPE Common Application,Coalition Application
+Duke University TEST OPTIONAL DETAILS https://today.duke.edu/2020/06/duke-go-test-optional-2021-admissions#:~:text=As%20the%20COVID%2D19%20pandemic,the%202020%2D21%20academic%20year.
+Duke University UNDOCUMENTED STUDENTS INFO https://studentaffairs.duke.edu/undocumented-students
+Emory University COLLEGE NAME Emory University
+Emory University STATE GA
+Emory University COLLEGE TYPE Private
+Emory University COLLEGE SIZE Medium (2,000 - 15,000)
+Emory University COLLEGE SETTING Suburban
+Emory University ACCEPTANCE RATE 16%
+Emory University % FINANCIAL NEED MET 100%
+Emory University % STUDENTS OF COLOR 61%
+Emory University FLY-IN PROGRAM https://apply.emory.edu/core/core.html
+Emory University VIRTUAL TOUR https://www.youvisit.com/tour/emoryuniversity/141321?pl=v&m_prompt=1
+Emory University VIRTUAL INFO SESSION https://admission.emory.edu/portal/virtualvisit
+Emory University COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/emory-university
+Emory University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/emory-university
+Emory University EARLY DECISION DEADLINE 11/1/2020
+Emory University EARLY DECISION II DEADLINE 1/1/2021
+Emory University REGULAR DECISION DEADLINE 1/1/2021
+Emory University APPLICATION TYPE Coalition Application,Common Application
+Emory University TEST OPTIONAL DETAILS https://apply.emory.edu/apply/first-year/tips/standardized-exam-policies.html#:~:text=SAT%2FACT,test%20policy%20for%20this%20year.
+Emory University UNDOCUMENTED STUDENTS INFO https://studentaid.emory.edu/undergraduate/how-aid-works/undocumented.html
+Grinnell College COLLEGE NAME Grinnell College
+Grinnell College STATE IA
+Grinnell College COLLEGE TYPE Private
+Grinnell College COLLEGE SIZE Small (<2,000)
+Grinnell College COLLEGE SETTING Rural
+Grinnell College ACCEPTANCE RATE 23%
+Grinnell College % FINANCIAL NEED MET 100%
+Grinnell College % STUDENTS OF COLOR 49%
+Grinnell College FLY-IN PROGRAM www.grinnell.edu/admission/visit/on-campus/programs
+Grinnell College VIRTUAL TOUR www.youvisit.com/tour/grinnell
+Grinnell College VIRTUAL INFO SESSION https://admission.grinnell.edu/portal/campus-visit
+Grinnell College COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/grinnell-college
+Grinnell College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/grinnell-college
+Grinnell College EARLY DECISION DEADLINE 11/15/2022
+Grinnell College EARLY DECISION II DEADLINE 1/9/2023
+Grinnell College REGULAR DECISION DEADLINE 1/15/2021
+Grinnell College APPLICATION TYPE Common Application
+Grinnell College TEST OPTIONAL DETAILS https://www.grinnell.edu/standardized-testing#:~:text=The%20essay%20component%20of%20both,minimum%20score%20requirements%20for%20admission.&text=Grinnell%20does%20not%20require%20the,to%20submit%20SAT%20II%20scores.
+Grinnell College UNDOCUMENTED STUDENTS INFO https://www.grinnell.edu/news/grinnells-statement-undocumented-students
+Hamilton College COLLEGE NAME Hamilton College
+Hamilton College STATE NY
+Hamilton College COLLEGE TYPE Private
+Hamilton College COLLEGE SIZE Small (<2,000)
+Hamilton College COLLEGE SETTING Rural
+Hamilton College ACCEPTANCE RATE 16%
+Hamilton College % FINANCIAL NEED MET 100%
+Hamilton College % STUDENTS OF COLOR 36%
+Hamilton College FLY-IN PROGRAM https://my.hamilton.edu/admission/promise-program
+Hamilton College VIRTUAL TOUR www.youvisit.com/tour/hamilton
+Hamilton College VIRTUAL INFO SESSION www.hamilton.edu/admission/information-sessions
+Hamilton College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Hamilton-College
+Hamilton College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/hamilton-college
+Hamilton College EARLY DECISION DEADLINE 11/15/2020
+Hamilton College EARLY DECISION II DEADLINE 1/1/2021
+Hamilton College REGULAR DECISION DEADLINE 1/1/2021
+Hamilton College APPLICATION TYPE Common Application,Coalition Application
+Hamilton College TEST OPTIONAL DETAILS https://www.hamilton.edu/admission/apply/testing
+Hamilton College UNDOCUMENTED STUDENTS INFO https://www.hamilton.edu/offices/dos/international-student-services/immigration-resources
+Haverford College COLLEGE NAME Haverford College
+Haverford College STATE PA
+Haverford College COLLEGE TYPE Private
+Haverford College COLLEGE SIZE Small (<2,000)
+Haverford College COLLEGE SETTING Suburban
+Haverford College ACCEPTANCE RATE 16%
+Haverford College % FINANCIAL NEED MET 100%
+Haverford College % STUDENTS OF COLOR 47%
+Haverford College FLY-IN PROGRAM www.haverford.edu/havealook
+Haverford College VIRTUAL TOUR www.youvisit.com/tour/110240/128235/
+Haverford College VIRTUAL INFO SESSION https://www.haverford.edu/admission/visiting
+Haverford College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Haverford-College
+Haverford College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/haverford-college
+Haverford College EARLY DECISION DEADLINE 11/15/2020
+Haverford College EARLY DECISION II DEADLINE 1/1/2021
+Haverford College REGULAR DECISION DEADLINE 1/15/2021
+Haverford College APPLICATION TYPE Common Application
+Haverford College TEST OPTIONAL DETAILS https://www.haverford.edu/admission/blog/haverford-adopts-test-optional-policy
+Haverford College UNDOCUMENTED STUDENTS INFO https://www.haverford.edu/financial-aid/frequently-asked-questions/international-students-faq#:~:text=of%20their%20application.-,We%20do%20meet%20100%25%20of%20the,need%20of%20all%20admitted%20students.&text=Can%20undocumented%20students%20receive%20financial,need%20of%20all%20admitted%20students.
+Johns Hopkins University COLLEGE NAME Johns Hopkins University
+Johns Hopkins University STATE MD
+Johns Hopkins University COLLEGE TYPE Private
+Johns Hopkins University COLLEGE SIZE Medium (2,000 - 15,000)
+Johns Hopkins University COLLEGE SETTING Urban
+Johns Hopkins University ACCEPTANCE RATE 10%
+Johns Hopkins University % FINANCIAL NEED MET 100%
+Johns Hopkins University % STUDENTS OF COLOR 72%
+Johns Hopkins University FLY-IN PROGRAM https://apply.jhu.edu/home-program/
+Johns Hopkins University VIRTUAL TOUR https://www.youvisit.com/tour/jhuhomewood?lead_source_detail=google_ads&utm_medium=paidsearch&personsource=advertising&yv_campaign=57ru8kg7&utm_term=%2Bjohns%20%2Bhopkins%20%2Buniversity%20%2Bvirtual%20%2Btour&utm_campaign=Partner%20Schools&utm_adgroup=Partner%20Schools%20-%20Johns%20Hopkins%20University&utm_source=adwords&gclid=EAIaIQobChMI14f559-p6gIVEvDACh0P8gHIEAAYAiAAEgLRV_D_BwE
+Johns Hopkins University VIRTUAL INFO SESSION https://apply.jhu.edu/campus-and-community/visit-hopkins/
+Johns Hopkins University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Johns-Hopkins-University
+Johns Hopkins University EARLY DECISION DEADLINE 11/2/2020
+Johns Hopkins University REGULAR DECISION DEADLINE 1/4/2021
+Johns Hopkins University APPLICATION TYPE Common Application,Coalition Application
+Johns Hopkins University TEST OPTIONAL DETAILS https://apply.jhu.edu/standardized-test-information/#:~:text=Because%20testing%20availability%20and%20access,in%20the%20fall%20of%202021).&text=We%20also%20recognize%20that%20the,a%20student's%20high%20school%20experience.
+Johns Hopkins University UNDOCUMENTED STUDENTS INFO https://finaid.jhu.edu/undergraduate-aid/students-with-undocumented-or-daca-status/
+Middlebury College COLLEGE NAME Middlebury College
+Middlebury College STATE VT
+Middlebury College COLLEGE TYPE Private
+Middlebury College COLLEGE SIZE Medium (2,000 - 15,000)
+Middlebury College COLLEGE SETTING Rural
+Middlebury College ACCEPTANCE RATE 15%
+Middlebury College % FINANCIAL NEED MET 100%
+Middlebury College % STUDENTS OF COLOR 38%
+Middlebury College FLY-IN PROGRAM www.middlebury.edu/admissions/visit/programs
+Middlebury College VIRTUAL TOUR www.middlebury.edu/admissions/visit/alttours
+Middlebury College VIRTUAL INFO SESSION https://admissions.middlebury.edu/portal/campus-visit
+Middlebury College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Middlebury-College
+Middlebury College EARLY DECISION DEADLINE 11/1/2020
+Middlebury College EARLY DECISION II DEADLINE 1/1/2021
+Middlebury College REGULAR DECISION DEADLINE 1/1/2021
+Middlebury College APPLICATION TYPE Common Application
+Middlebury College TEST OPTIONAL DETAILS https://www.middlebury.edu/college/admissions/apply/standardized-tests
+Middlebury College UNDOCUMENTED STUDENTS INFO https://www.middlebury.edu/college/admissions/apply/undocumented
+Northwestern University COLLEGE NAME Northwestern University
+Northwestern University STATE IL
+Northwestern University COLLEGE TYPE Private
+Northwestern University COLLEGE SIZE Medium (2,000 - 15,000)
+Northwestern University COLLEGE SETTING Suburban
+Northwestern University ACCEPTANCE RATE 9%
+Northwestern University % FINANCIAL NEED MET 100%
+Northwestern University % STUDENTS OF COLOR 56%
+Northwestern University VIRTUAL TOUR https://admissions.northwestern.edu/visit/experience/virtual-tour.html
+Northwestern University VIRTUAL INFO SESSION https://admissions.northwestern.edu/visit/plan-your-visit/
+Northwestern University COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/northwestern-university
+Northwestern University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners
+Northwestern University EARLY DECISION DEADLINE 11/1/2022
+Northwestern University REGULAR DECISION DEADLINE 1/2/2023
+Northwestern University APPLICATION TYPE Common Application,Coalition Application
+Northwestern University TEST OPTIONAL DETAILS https://admissions.northwestern.edu/faqs/standardized-testing-for-2020-21/
+Northwestern University UNDOCUMENTED STUDENTS INFO https://admissions.northwestern.edu/faqs/undocumented-students/
+Pomona College COLLEGE NAME Pomona College
+Pomona College STATE CA
+Pomona College COLLEGE TYPE Private
+Pomona College COLLEGE SIZE Small (<2,000)
+Pomona College COLLEGE SETTING Suburban
+Pomona College ACCEPTANCE RATE 7%
+Pomona College % FINANCIAL NEED MET 100%
+Pomona College % STUDENTS OF COLOR 66%
+Pomona College FLY-IN PROGRAM www.pomona.edu/admissions/why-pomona/diversity-pomona/perspectives-pomona-pop
+Pomona College VIRTUAL TOUR www.youtube.com/watch?v=0yM4MSU4eI0
+Pomona College VIRTUAL INFO SESSION https://admissions.pomona.edu/portal/visit-campus
+Pomona College COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/pomona-college
+Pomona College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/oberlin-college
+Pomona College EARLY DECISION DEADLINE 11/15/2020
+Pomona College EARLY DECISION II DEADLINE 1/8/2021
+Pomona College REGULAR DECISION DEADLINE 1/8/2021
+Pomona College APPLICATION TYPE Common Application,Coalition Application
+Pomona College TEST OPTIONAL DETAILS https://www.pomona.edu/admissions/apply/application-overview#:~:text=For%20first%2Dyear%20and%20transfer%20applicants%20for%20admission%20for%20Fall,report%20them%20on%20their%20applications.
+Pomona College UNDOCUMENTED STUDENTS INFO https://www.pomona.edu/daca#:~:text=Pomona%20College%20is%20committed%20to,DACAmented%20students%20within%20higher%20education.
+Princeton University COLLEGE NAME Princeton University
+Princeton University STATE NJ
+Princeton University COLLEGE TYPE Private
+Princeton University COLLEGE SIZE Medium (2,000 - 15,000)
+Princeton University COLLEGE SETTING Suburban
+Princeton University ACCEPTANCE RATE 6%
+Princeton University % FINANCIAL NEED MET 100%
+Princeton University % STUDENTS OF COLOR 58%
+Princeton University VIRTUAL TOUR https://www.youvisit.com/tour/princeton
+Princeton University VIRTUAL INFO SESSION https://admission.princeton.edu/virtual-visit/virtual-information-session
+Princeton University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Princeton-University
+Princeton University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/princeton-university
+Princeton University EARLY ACTION DEADLINE 11/1/2020
+Princeton University REGULAR DECISION DEADLINE 1/1/2021
+Princeton University APPLICATION TYPE Common Application,Coalition Application
+Princeton University TEST OPTIONAL DETAILS https://admission.princeton.edu/how-apply/standardized-testing
+Princeton University UNDOCUMENTED STUDENTS INFO https://inclusive.princeton.edu/community-resources/inclusive-community/daca-faqs
+Rice University COLLEGE NAME Rice University
+Rice University STATE TX
+Rice University COLLEGE TYPE Private
+Rice University COLLEGE SIZE Medium (2,000 - 15,000)
+Rice University COLLEGE SETTING Urban
+Rice University ACCEPTANCE RATE 9%
+Rice University % FINANCIAL NEED MET 100%
+Rice University % STUDENTS OF COLOR 68%
+Rice University FLY-IN PROGRAM https://admission.rice.edu/soar
+Rice University VIRTUAL TOUR https://graduate.rice.edu/virtual-tour
+Rice University VIRTUAL INFO SESSION https://riceadmission.rice.edu/portal/virtual-info
+Rice University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Rice-University
+Rice University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/princeton-university
+Rice University EARLY DECISION DEADLINE 11/1/2020
+Rice University REGULAR DECISION DEADLINE 1/1/2021
+Rice University APPLICATION TYPE Common Application,Coalition Application
+Rice University TEST OPTIONAL DETAILS https://news.rice.edu/2020/06/16/rice-announces-a-one-year-test-optional-policy-for-the-applicants-to-rice/
+Rice University UNDOCUMENTED STUDENTS INFO https://daca.rice.edu/
+Stanford University COLLEGE NAME Stanford University
+Stanford University STATE CA
+Stanford University COLLEGE TYPE Private
+Stanford University COLLEGE SIZE Medium (2,000 - 15,000)
+Stanford University COLLEGE SETTING Suburban
+Stanford University ACCEPTANCE RATE 4%
+Stanford University % FINANCIAL NEED MET 100%
+Stanford University % STUDENTS OF COLOR 68%
+Stanford University VIRTUAL TOUR https://visit.stanford.edu/tours/virtual/
+Stanford University VIRTUAL INFO SESSION https://visit.stanford.edu/
+Stanford University COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/stanford-university
+Stanford University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/stanford-university
+Stanford University EARLY ACTION DEADLINE 11/1/2022
+Stanford University REGULAR DECISION DEADLINE 12/1/2020
+Stanford University APPLICATION TYPE Common Application,Coalition Application
+Stanford University TEST OPTIONAL DETAILS https://admission.stanford.edu/announcements/
+Stanford University UNDOCUMENTED STUDENTS INFO https://admission.stanford.edu/apply/undocumented/index.html#:~:text=Stanford%20assesses%20undocumented%20and%20DACA,factor%20in%20making%20admissions%20decisions.
+Swarthmore College COLLEGE NAME Swarthmore College
+Swarthmore College STATE PA
+Swarthmore College COLLEGE TYPE Private
+Swarthmore College COLLEGE SIZE Small (<2,000)
+Swarthmore College COLLEGE SETTING Suburban
+Swarthmore College ACCEPTANCE RATE 9%
+Swarthmore College % FINANCIAL NEED MET 100%
+Swarthmore College % STUDENTS OF COLOR 62%
+Swarthmore College FLY-IN PROGRAM www.swarthmore.edu/admissions-aid/discover-swarthmore-fly-program
+Swarthmore College VIRTUAL TOUR campusmap.swarthmore.edu/?id=713#!t/1397:1
+Swarthmore College VIRTUAL INFO SESSION https://apply.swarthmore.edu/register/?id=c2f1ba86-6040-411a-b846-c2cb4161c9bb
+Swarthmore College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Swarthmore-College
+Swarthmore College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/swarthmore-college
+Swarthmore College EARLY DECISION DEADLINE 11/15/2020
+Swarthmore College REGULAR DECISION DEADLINE 1/4/2021
+Swarthmore College APPLICATION TYPE Common Application,Coalition Application
+Swarthmore College TEST OPTIONAL DETAILS https://www.swarthmore.edu/admissions-aid/standardized-testing-policy
+Swarthmore College UNDOCUMENTED STUDENTS INFO https://www.swarthmore.edu/admissions-aid/undocumented-students
+Tufts University COLLEGE NAME Tufts University
+Tufts University STATE MA
+Tufts University COLLEGE TYPE Private
+Tufts University COLLEGE SIZE Medium (2,000 - 15,000)
+Tufts University COLLEGE SETTING Suburban
+Tufts University ACCEPTANCE RATE 15%
+Tufts University % FINANCIAL NEED MET 100%
+Tufts University % STUDENTS OF COLOR 47%
+Tufts University FLY-IN PROGRAM https://admissions.tufts.edu/voices/voices-home/
+Tufts University VIRTUAL TOUR https://www.youvisit.com/tour/tufts
+Tufts University VIRTUAL INFO SESSION https://ugrad.admissions.tufts.edu/portal/virtual-visit
+Tufts University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Tufts-University
+Tufts University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/tufts-university
+Tufts University EARLY DECISION DEADLINE 11/1/2020
+Tufts University REGULAR DECISION DEADLINE 1/1/2021
+Tufts University APPLICATION TYPE Coalition Application,Common Application
+Tufts University TEST OPTIONAL DETAILS https://admissions.tufts.edu/apply/first-year-students/sat-and-act-tests/
+Tufts University UNDOCUMENTED STUDENTS INFO https://admissions.tufts.edu/apply/undocumented-students/
+University of Chicago COLLEGE NAME University of Chicago
+University of Chicago STATE IL
+University of Chicago COLLEGE TYPE Private
+University of Chicago COLLEGE SIZE Medium (2,000 - 15,000)
+University of Chicago COLLEGE SETTING Urban
+University of Chicago ACCEPTANCE RATE 6%
+University of Chicago % FINANCIAL NEED MET 100%
+University of Chicago % STUDENTS OF COLOR 63%
+University of Chicago VIRTUAL TOUR https://collegeadmissions.uchicago.edu/visit/virtual-visits
+University of Chicago VIRTUAL INFO SESSION https://collegeadmissions.uchicago.edu/visit/virtual-visits
+University of Chicago COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/university-of-chicago
+University of Chicago QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/university-of-chicago
+University of Chicago EARLY ACTION DEADLINE 11/2/2022
+University of Chicago EARLY ACTION II DEADLINE 5/1/2023
+University of Chicago EARLY DECISION DEADLINE 11/4/2023
+University of Chicago EARLY DECISION II DEADLINE 11/15/2023
+University of Chicago REGULAR DECISION DEADLINE 1/4/2021
+University of Chicago APPLICATION TYPE Common Application,Coalition Application
+University of Chicago TEST OPTIONAL DETAILS https://collegeadmissions.uchicago.edu/contact/frequently-asked-questions#:~:text=UChicago%20is%20test%2Doptional%2C%20which,international%20applicants%2C%20and%20transfer%20students.
+University of Chicago UNDOCUMENTED STUDENTS INFO https://inclusion.uchicago.edu/studentsupport/undocumented-dacamented/
+University of Notre Dame COLLEGE NAME University of Notre Dame
+University of Notre Dame STATE IN
+University of Notre Dame COLLEGE TYPE Private
+University of Notre Dame COLLEGE SIZE Medium (2,000 - 15,000)
+University of Notre Dame COLLEGE SETTING Suburban
+University of Notre Dame ACCEPTANCE RATE 16%
+University of Notre Dame % FINANCIAL NEED MET 100%
+University of Notre Dame % STUDENTS OF COLOR 19%
+University of Notre Dame VIRTUAL TOUR https://www.youtube.com/watch?v=02BIpDPdfJE
+University of Notre Dame VIRTUAL INFO SESSION https://enrollment.nd.edu/portal/virtual-info-sessions
+University of Notre Dame COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/University-of-Notre-Dame
+University of Notre Dame QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/university-of-notre-dame
+University of Notre Dame EARLY ACTION DEADLINE 11/1/2020
+University of Notre Dame REGULAR DECISION DEADLINE 1/1/2021
+University of Notre Dame APPLICATION TYPE Common Application,Coalition Application
+University of Notre Dame TEST OPTIONAL DETAILS https://admissions.nd.edu/apply/resources-for/international-applicants/application-information/#:~:text=The%20University%20of%20Notre%20Dame,January%201%20for%20Regular%20Decision.
+University of Notre Dame UNDOCUMENTED STUDENTS INFO https://studentenrichment.nd.edu/resources/undocumented-and-daca-students/
+University of Pennsylvania COLLEGE NAME University of Pennsylvania
+University of Pennsylvania STATE PA
+University of Pennsylvania COLLEGE TYPE Private
+University of Pennsylvania COLLEGE SIZE Medium (2,000 - 15,000)
+University of Pennsylvania COLLEGE SETTING Urban
+University of Pennsylvania ACCEPTANCE RATE 8%
+University of Pennsylvania % FINANCIAL NEED MET 100%
+University of Pennsylvania % STUDENTS OF COLOR 61%
+University of Pennsylvania FLY-IN PROGRAM https://admissions.upenn.edu/penn-early-exploration-program-0
+University of Pennsylvania VIRTUAL TOUR https://admissions.upenn.edu/virtual-tour
+University of Pennsylvania VIRTUAL INFO SESSION https://admissions.upenn.edu/admissions-and-financial-aid/visit-penn
+University of Pennsylvania COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/University-of-Pennsylvania
+University of Pennsylvania QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/university-of-pennsylvania
+University of Pennsylvania EARLY DECISION DEADLINE 11/1/2020
+University of Pennsylvania REGULAR DECISION DEADLINE 1/5/2021
+University of Pennsylvania APPLICATION TYPE Common Application,Coalition Application
+University of Pennsylvania TEST OPTIONAL DETAILS https://admissions.upenn.edu/admissions-and-financial-aid/what-penn-looks-for/testing#:~:text=In%20response%20to%20COVID%2D19,the%202020%2D21%20application%20cycle.&text=Applicants%20who%20do%20not%20submit,disadvantage%20in%20the%20admissions%20process.
+University of Pennsylvania UNDOCUMENTED STUDENTS INFO https://careerservices.upenn.edu/channels/daca-and-undocumented-students/
+University of Southern California COLLEGE NAME University of Southern California
+University of Southern California STATE CA
+University of Southern California COLLEGE TYPE Private
+University of Southern California COLLEGE SIZE Large (15,000 - 25,000)
+University of Southern California COLLEGE SETTING Urban
+University of Southern California ACCEPTANCE RATE 11%
+University of Southern California % FINANCIAL NEED MET 100%
+University of Southern California % STUDENTS OF COLOR 63%
+University of Southern California VIRTUAL TOUR https://visit.usc.edu/
+University of Southern California VIRTUAL INFO SESSION https://applyto.usc.edu/portal/virtual
+University of Southern California COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/university-of-southern-california
+University of Southern California QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/university-of-southern-california
+University of Southern California REGULAR DECISION DEADLINE 12/1/2020
+University of Southern California APPLICATION TYPE Common Application
+University of Southern California TEST OPTIONAL DETAILS https://admission.usc.edu/apply/first-year-students/#/checklist
+University of Southern California UNDOCUMENTED STUDENTS INFO https://dornsife.usc.edu/first-generation-college-students-at-usc/resources/
+University of Virginia COLLEGE NAME University of Virginia
+University of Virginia STATE VA
+University of Virginia COLLEGE TYPE Public
+University of Virginia COLLEGE SIZE Large (15,000 - 25,000)
+University of Virginia COLLEGE SETTING Suburban
+University of Virginia ACCEPTANCE RATE 24%
+University of Virginia % FINANCIAL NEED MET 100%
+University of Virginia % STUDENTS OF COLOR 44%
+University of Virginia FLY-IN PROGRAM https://hoosfirstlook.weebly.com/
+University of Virginia VIRTUAL TOUR https://www.uvaguides.org/virtual-tour/
+University of Virginia VIRTUAL INFO SESSION https://apply.undergradadmission.virginia.edu/portal/virtual_info_session
+University of Virginia COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/University-of-Virginia-Main-Campus
+University of Virginia QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/university-of-virginia
+University of Virginia EARLY ACTION DEADLINE 11/1/2020
+University of Virginia EARLY DECISION DEADLINE 11/1/2020
+University of Virginia REGULAR DECISION DEADLINE 1/1/2021
+University of Virginia APPLICATION TYPE Common Application
+University of Virginia TEST OPTIONAL DETAILS http://uvaapplication.blogspot.com/2020/06/we-are-test-optional-for-students.html
+University of Virginia UNDOCUMENTED STUDENTS INFO https://news.virginia.edu/content/uva-announces-all-students-regardless-citizenship-status-are-eligible-enroll#:~:text=Subscribe-,UVA%20Announces%20That%20All%20Students%2C%20Regardless%20of,Status%2C%20Are%20Eligible%20to%20Enroll&text=University%20of%20Virginia%20President,admission%20and%20enrollment%20at%20UVA.
+Vanderbilt University COLLEGE NAME Vanderbilt University
+Vanderbilt University STATE TN
+Vanderbilt University COLLEGE TYPE Private
+Vanderbilt University COLLEGE SIZE Medium (2,000 - 15,000)
+Vanderbilt University COLLEGE SETTING Urban
+Vanderbilt University ACCEPTANCE RATE 9%
+Vanderbilt University % FINANCIAL NEED MET 100%
+Vanderbilt University % STUDENTS OF COLOR 56%
+Vanderbilt University FLY-IN PROGRAM https://admissions.vanderbilt.edu/visit/prevu.php
+Vanderbilt University VIRTUAL TOUR https://admissions.vanderbilt.edu/tour/
+Vanderbilt University VIRTUAL INFO SESSION https://myappvu.vanderbilt.edu/portal/onlinesession
+Vanderbilt University COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Vanderbilt-University
+Vanderbilt University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/vanderbilt-university
+Vanderbilt University EARLY DECISION DEADLINE 11/1/2020
+Vanderbilt University EARLY DECISION II DEADLINE 1/1/2021
+Vanderbilt University REGULAR DECISION DEADLINE 1/1/2021
+Vanderbilt University APPLICATION TYPE Coalition Application,Common Application
+Vanderbilt University TEST OPTIONAL DETAILS https://news.vanderbilt.edu/2020/06/19/vanderbilt-announces-new-testing-policies-for-applicants/
+Vanderbilt University UNDOCUMENTED STUDENTS INFO https://divinity.vanderbilt.edu/admissions/International%20Students.php
+Washington University in St. Louis COLLEGE NAME Washington University in St. Louis
+Washington University in St. Louis STATE MO
+Washington University in St. Louis COLLEGE TYPE Private
+Washington University in St. Louis COLLEGE SIZE Medium (2,000 - 15,000)
+Washington University in St. Louis COLLEGE SETTING Suburban
+Washington University in St. Louis ACCEPTANCE RATE 14%
+Washington University in St. Louis % FINANCIAL NEED MET 100%
+Washington University in St. Louis % STUDENTS OF COLOR 51%
+Washington University in St. Louis FLY-IN PROGRAM https://admissions.wustl.edu/preview-days/
+Washington University in St. Louis VIRTUAL TOUR https://admissions.wustl.edu/visit-washu/virtual-campus-tour/
+Washington University in St. Louis VIRTUAL INFO SESSION https://pathway.wustl.edu/portal/campus_visit
+Washington University in St. Louis COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Washington-University-in-St-Louis
+Washington University in St. Louis QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/washington-university-in-st-louis
+Washington University in St. Louis EARLY DECISION DEADLINE 11/1/2020
+Washington University in St. Louis EARLY DECISION II DEADLINE 1/2/2021
+Washington University in St. Louis REGULAR DECISION DEADLINE 1/2/2021
+Washington University in St. Louis APPLICATION TYPE Common Application,Coalition Application
+Washington University in St. Louis TEST OPTIONAL DETAILS https://admissions.wustl.edu/how-to-apply/fall-2021-applicant-info/#:~:text=Washington%20University%20Announces%20One%2DYear,test%20scores%20when%20they%20apply.
+Washington University in St. Louis UNDOCUMENTED STUDENTS INFO https://admissions.wustl.edu/faqs/what-are-washington-universitys-admissions-policies-toward-undocumented-students/
+Wellesley College COLLEGE NAME Wellesley College
+Wellesley College STATE MA
+Wellesley College COLLEGE TYPE Private,All Women's College
+Wellesley College COLLEGE SIZE Medium (2,000 - 15,000)
+Wellesley College COLLEGE SETTING Suburban
+Wellesley College ACCEPTANCE RATE 22%
+Wellesley College % FINANCIAL NEED MET 100%
+Wellesley College % STUDENTS OF COLOR 63%
+Wellesley College FLY-IN PROGRAM https://www.wellesley.edu/admission/visit/opencampus
+Wellesley College VIRTUAL TOUR https://admission.wellesley.edu/portal/campusvisit%20
+Wellesley College VIRTUAL INFO SESSION https://www.wellesley.edu/admission/visit/schedule#informationsessions
+Wellesley College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Wellesley-College/tuition-and-costs
+Wellesley College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/wellesley-college
+Wellesley College EARLY DECISION DEADLINE 11/1/2020
+Wellesley College EARLY DECISION II DEADLINE 1/1/2021
+Wellesley College REGULAR DECISION DEADLINE 1/8/2021
+Wellesley College APPLICATION TYPE Common Application,Coalition Application
+Wellesley College TEST OPTIONAL DETAILS https://www.wellesley.edu/admission/apply
+Wellesley College UNDOCUMENTED STUDENTS INFO https://www.wellesley.edu/admission/apply/undocumented
+Wesleyan University COLLEGE NAME Wesleyan University
+Wesleyan University STATE CT
+Wesleyan University COLLEGE TYPE Private
+Wesleyan University COLLEGE SIZE Medium (2,000 - 15,000)
+Wesleyan University COLLEGE SETTING Suburban
+Wesleyan University ACCEPTANCE RATE 16%
+Wesleyan University % FINANCIAL NEED MET 100%
+Wesleyan University % STUDENTS OF COLOR 46%
+Wesleyan University FLY-IN PROGRAM https://www.wesleyan.edu/admission/openhouse/tap.html
+Wesleyan University VIRTUAL TOUR https://www.wesleyan.edu/admission/videos/campustour.html
+Wesleyan University VIRTUAL INFO SESSION https://admission.wesleyan.edu/portal/onlineevent
+Wesleyan University COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/wesleyan-university
+Wesleyan University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/wesleyan-university
+Wesleyan University EARLY DECISION DEADLINE 11/15/2020
+Wesleyan University EARLY DECISION II DEADLINE 1/1/2021
+Wesleyan University REGULAR DECISION DEADLINE 1/1/2021
+Wesleyan University APPLICATION TYPE Common Application,Coalition Application
+Wesleyan University TEST OPTIONAL DETAILS https://www.wesleyan.edu/admission/apply/testing.html
+Wesleyan University UNDOCUMENTED STUDENTS INFO https://www.wesleyan.edu/admission/apply/undocdaca.html#:~:text=Yes.,U.S.%20citizen%20or%20permanent%20resident.
+Williams College COLLEGE NAME Williams College
+Williams College STATE MA
+Williams College COLLEGE TYPE Private
+Williams College COLLEGE SIZE Medium (2,000 - 15,000)
+Williams College COLLEGE SETTING Rural
+Williams College ACCEPTANCE RATE 13%
+Williams College % FINANCIAL NEED MET 100%
+Williams College % STUDENTS OF COLOR 51%
+Williams College FLY-IN PROGRAM https://www.williams.edu/admission-aid/wow/
+Williams College VIRTUAL TOUR https://www.youtube.com/watch?v=4XqOJvSwLE0
+Williams College VIRTUAL INFO SESSION https://myadmission.williams.edu/portal/virtualinfosession
+Williams College COLLEGEGREENLIGHT PROFILE https://www.collegegreenlight.com/colleges/Williams-College
+Williams College QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/williams-college
+Williams College EARLY DECISION DEADLINE 11/15/2020
+Williams College REGULAR DECISION DEADLINE 1/1/2021
+Williams College APPLICATION TYPE Common Application,Coalition Application
+Williams College TEST OPTIONAL DETAILS https://communications.williams.edu/news-releases/4_6_2020_test_optional/
+Williams College UNDOCUMENTED STUDENTS INFO https://www.williams.edu/admission-aid/apply/daca/
+Yale University COLLEGE NAME Yale University
+Yale University STATE CT
+Yale University COLLEGE TYPE Private
+Yale University COLLEGE SIZE Medium (2,000 - 15,000)
+Yale University COLLEGE SETTING Urban
+Yale University ACCEPTANCE RATE 6%
+Yale University % FINANCIAL NEED MET 100%
+Yale University % STUDENTS OF COLOR 60%
+Yale University VIRTUAL TOUR https://admissions.yale.edu/virtual-tour
+Yale University VIRTUAL INFO SESSION https://admissions.yale.edu/virtual-events
+Yale University COLLEGEGREENLIGHT PROFILE https://www.cappex.com/colleges/yale-university
+Yale University QUESTBRIDGE PARTNER SCHOOL https://www.questbridge.org/college-partners/yale-university
+Yale University EARLY ACTION DEADLINE 11/1/2020
+Yale University REGULAR DECISION DEADLINE 1/2/2021
+Yale University APPLICATION TYPE Common Application,Coalition Application
+Yale University TEST OPTIONAL DETAILS https://admissions.yale.edu/standardized-testing
+Yale University UNDOCUMENTED STUDENTS INFO https://oiss.yale.edu/immigration/dacamented-undacamented
