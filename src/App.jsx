@@ -3,6 +3,8 @@ import QuestbridgeLogo from './assets/questbridgeLogo.png'
 import AzureLogo from './assets/AzureLogo.webp'
 import CloudforceLogo from './assets/cloudforceLogo.png'
 import OpenAILogo from './assets/OpenAILogo.png'
+import beforeAI from './assets/before.png'
+import afterAI from './assets/after.png'
 
 function App() {
 
@@ -19,10 +21,9 @@ function App() {
           <div className="flex justify-center items-center mb-10 gap-10 bg-gradient-to-r from-indigo-200 to-cyan-200 h-16 w-screen">
             <h3 className="text-2xl">Home</h3>
             <h3 className="text-2xl">About</h3>
-
           </div>
           <h2 className="text-xl text-center mb-5">
-            Data driven, using information from leading university partners
+            Data driven, using the most recent information from leading university partners
           </h2>
           <div className="flex justify-center mb-10">
             <div className="flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
@@ -51,7 +52,6 @@ function App() {
               </a>
             </div>
           </div>
-          
           <div className="text-center">
             <h3 className="text-xl mb-3">Try out our chatbot here</h3>
             <button className="bg-indigo-400 hover:bg-cyan-400 text-white p-3 rounded-lg">
