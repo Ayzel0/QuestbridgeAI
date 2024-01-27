@@ -1,67 +1,59 @@
-import { useState } from 'react'
-import QuestbridgeLogo from './assets/questbridgeLogo.png'
-import AzureLogo from './assets/AzureLogo.webp'
-import CloudforceLogo from './assets/cloudforceLogo.png'
-import OpenAILogo from './assets/OpenAILogo.png'
+import QuestbridgeLogo from './assets/questbridgeLogo.png';
+import AzureLogo from './assets/AzureLogo.webp';
+import CloudforceLogo from './assets/cloudforceLogo.png';
+import OpenAILogo from './assets/OpenAILogo.png';
+
+import Icon from './Icon';
+import TopBar from './TopBar';
+import BottomBar from './BottomBar';
 
 function App() {
-
   return (
     <>
-      <div className="bg-gradient-to-b from-zinc-50 to-sky-100">
-        <div className="flex-col justify-center mb-20">
-          <h1 className="text-3xl flex justify-center mt-5 mb-5">
-            College Admissions AI
-          </h1>
-          <h2 className="text-xl text-center mb-10">
-            Making college admissions more <span className="text-indigo-400">equitable</span> and <span className="text-cyan-400">accessible</span> for all
-          </h2>
-          <div className="flex justify-center items-center mb-10 gap-10 bg-gradient-to-r from-indigo-200 to-cyan-200 h-16 w-screen">
-            <h3 className="text-2xl">Home</h3>
-            <h3 className="text-2xl">About</h3>
-
+      <div>
+        <TopBar />
+        <div className='flex flex-col items-center relative h-[40vh] bg-gradient-to-br from-slate-400 to-teal-200 m-0'>
+          <h1 className='absolute left-16 top-10 font-semibold text-4xl'>Say goodbye to endless college spreadsheets...</h1>
+          <h1 className='absolute right-16 top-[28vh] font-semibold text-4xl text-black'>...and say hello to the Questbridge AI Helper.</h1>
+        </div>
+        <div className='bg-zinc-800 m-0 flex flex-row justify-center'>
+          <h2 className='text-2xl text-white py-5'>Making college admissions more <span className='text-indigo-400 font-semibold'>equitable</span> and <span className='text-cyan-400 font-semibold'>accessible</span> for all.</h2>
+        </div>
+        <div className='flex flex-row justify-center bg-white'>
+          <div className='m-5'>
+            <Icon 
+              link={'https://www.questbridge.org/'}
+              imgSrc={QuestbridgeLogo}
+              altText={'questbridge logo'}
+            />
           </div>
-          <h2 className="text-xl text-center mb-5">
-            Data driven, using information from leading university partners
-          </h2>
-          <div className="flex justify-center mb-10">
-            <div className="flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-              <a href="https://www.questbridge.org" target="_blank">
-                <img className="h-28" src={QuestbridgeLogo} alt="Questbridge logo" />
-              </a>
-            </div>
+          <div className='m-5'>
+            <Icon 
+              link={'https://azure.microsoft.com/en-us/'}
+              imgSrc={AzureLogo}
+              altText={'azure logo'}
+            />
           </div>
-          <h2 className="text-xl text-center mb-5">
-            Backed by leading cloud and artificial intelligence solutions
-          </h2>
-          <div className="flex justify-center items-center gap-10 mb-10">
-            <div className="flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-              <a href="https://azure.microsoft.com/en-us/" target="_blank">
-                <img className="h-24 w-auto" src={AzureLogo} alt="Microsoft Azure logo" />
-              </a>
-            </div>
-            <div className="flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-              <a href="https://gocloudforce.com" target="_blank">
-                <img className="h-10 w-auto" src={CloudforceLogo} alt="Cloudforce logo" />
-              </a>
-            </div>
-            <div className="flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-              <a href="https://openai.com" target="_blank">
-                <img className="h-36 w-auto" src={OpenAILogo} alt="OpenAI logo" />
-              </a>
-            </div>
+          <div className='m-5'>
+            <Icon 
+              link={'https://gocloudforce.com'}
+              imgSrc={CloudforceLogo}
+              altText={'cloudforce logo'}
+            />
           </div>
-          
-          <div className="text-center">
-            <h3 className="text-xl mb-3">Try out our chatbot here</h3>
-            <button className="bg-indigo-400 hover:bg-cyan-400 text-white p-3 rounded-lg">
-              {/* Link this to the chatbot page */}
-              Ask me anything!
-            </button>
+          <div className='m-5'>
+            <Icon 
+              link={'https://openai.com'}
+              imgSrc={OpenAILogo}
+              altText={'openai logo'}
+            />
           </div>
         </div>
+        <div className='bg-zinc-200 flex flex-row justify-center'>
+          <button className='rounded-full bg-teal-400 hover:bg-teal-500 py-4 px-8 my-10'>Try our Chatbot!</button>
+        </div>
+        <BottomBar />
       </div>
-      
     </>
   )
 }
