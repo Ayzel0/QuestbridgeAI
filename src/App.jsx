@@ -2,14 +2,9 @@ import QuestbridgeLogo from './assets/questbridgeLogo.png';
 import AzureLogo from './assets/AzureLogo.webp';
 import CloudforceLogo from './assets/cloudforceLogo.png';
 import OpenAILogo from './assets/OpenAILogo.png';
-
 import Icon from './Icon';
 import TopBar from './TopBar';
 import BottomBar from './BottomBar';
-import beforeAI from './assets/before.png'
-import afterAI from './assets/after.png'
-import fafsa from './assets/fafsa.png'
-import css from './assets/css.png'
 
 function App() {
   return (

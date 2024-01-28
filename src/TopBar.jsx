@@ -8,6 +8,10 @@ const TopBar = () => {
         >Home</a>
         <a 
           className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+          href='/about'
+        >About</a>
+        <a 
+          className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
         >Chatbot</a>
         <a 
           className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
