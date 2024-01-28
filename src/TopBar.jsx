@@ -9,19 +9,19 @@ const TopBar = () => {
       <div className='flex flex-row-reverse bg-inherit'>
         <div className='flex flex-row-reverse mr-12'>
           <a 
-            className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+            className='underline-offset-4 hover:underline-offset-8 hover:text-cyan-400 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
             href='/about'
           >About</a>
           <a 
-            className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+            className='underline-offset-4 hover:underline-offset-8 hover:text-cyan-400 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
             href='/how-it-works'
           >How it Works</a>
           <a 
             href='/chatbot'
-            className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+            className='underline-offset-4 hover:underline-offset-8 hover:text-cyan-400 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
           >Chatbot</a>
           <a 
-            className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+            className='underline-offset-4 hover:underline-offset-8 hover:text-cyan-400 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
             href='/'
           >Home</a>
         </div>
