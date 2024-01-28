@@ -6,17 +6,21 @@ import QuestbridgeLogo from './assets/questbridgeLogo.png';
 import AzureLogo from './assets/AzureLogo.webp';
 import CloudforceLogo from './assets/cloudforceLogo.png';
 import OpenAILogo from './assets/OpenAILogo.png';
+import JHULogo from './assets/jhu.png';
+import ColumbiaLogo from './assets/columbia.png';
+import CaltechLogo from './assets/caltech.png';
+import SwarthmoreLogo from './assets/swarthmore.png';
 import Icon from './Icon';
 
 const HowItWorks = () => {
   return (
-    <div>
+    <div className="bg-zinc-100">
       <TopBar/>
       <div className="flex-col justify-center">
         <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
           <h2 className='text-2xl text-white py-5'> &#128202; Driven by <span className='text-indigo-400 font-semibold'>data</span></h2>
         </div>
-        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+        <div className='flex max-w-[850px] mx-auto text-center'>
           <h2 className="text-xl mb-5">
             Using the most recent information from trusted university partners and sources, <br></br> we scraped information from <span className='text-indigo-400 font-semibold'>cost of attendance</span> to <span className='text-indigo-400 font-semibold'>student culture</span> so you don't have to look.
           </h2>
@@ -31,23 +35,46 @@ const HowItWorks = () => {
         <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
           <h2 className='text-2xl text-white py-5'> &#128218; We have <span className='text-cyan-400 font-semibold'>options</span></h2>
         </div>
-        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+        <div className='flex justify-center max-w-[850px] mx-auto text-center'>
           <h2 className="text-xl mb-5">
             Our chatbot is an expert on <span className='text-cyan-400 font-semibold'>every</span> institution on Questbridge,<br></br>so you can compare and contrast to find the <span className='text-cyan-400 font-semibold'>perfect fit</span>
           </h2>
         </div>
+        <div className="flex justify-center gap-10 mb-10">
         <div className="flex justify-center mb-10">
-          <Icon 
-            link={'https://www.questbridge.org/'}
-            imgSrc={QuestbridgeLogo}
-            altText={'questbridge logo'}
-          />
+            <Icon 
+              link={'https://www.swarthmore.edu'}
+              imgSrc={SwarthmoreLogo}
+              altText={'swarthmore logo'}
+            />
+          </div>
+          <div className="flex justify-center mb-10">
+            <Icon 
+              link={'https://www.columbia.edu'}
+              imgSrc={ColumbiaLogo}
+              altText={'columbia logo'}
+            />
+          </div>
+          <div className="flex justify-center mb-10">
+            <Icon 
+              link={'https://www.jhu.edu'}
+              imgSrc={JHULogo}
+              altText={'jhu logo'}
+            />
+          </div>
+          <div className="flex justify-center mb-10">
+            <Icon 
+              link={'https://www.caltech.edu'}
+              imgSrc={CaltechLogo}
+              altText={'caltech logo'}
+            />
+          </div>
         </div>
         <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
           <h2 className='text-2xl text-white py-5'> &#128184; Money <span className='text-indigo-400 font-semibold'>matters</span></h2>
         </div>
-        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
-          <h2 className="text-xl mb-5">
+        <div className='flex justify-center max-w-[850px] w-auto mx-auto'>
+          <h2 className="text-xl mb-5 text-center">
             We include <span className='text-indigo-400 font-semibold'>up-to-date</span> information about financial aid applications, <br></br>so you <span className='text-indigo-400 font-semibold'>never</span> miss a deadline
           </h2>
         </div>
@@ -70,8 +97,8 @@ const HowItWorks = () => {
         <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
           <h2 className='text-2xl text-white py-5'> &#9729; Innovation is <span className='text-cyan-400 font-semibold'>key</span></h2>
         </div>
-        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
-          <h2 className="text-xl mb-5">
+        <div className='flex justify-center max-w-[850px] w-auto mx-auto'>
+          <h2 className="text-xl mb-5 text-center">
             Our solution is backed by leading <br></br> <span className='text-cyan-400 font-semibold'>cloud</span> and <span className='text-cyan-400 font-semibold'>artificial intelligence</span> solutions in the industry
           </h2>
         </div>
