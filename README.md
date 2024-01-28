@@ -1,8 +1,13 @@
-# React + Vite
+# README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Our solution is called Questbrdige AI, a chatbot trained on real college datat to provide access to information for students in need, particularly those that are first-generation and or/from low-income households.
 
-Currently, two official plugins are available:
+Team members:
+- Andrew Lee, Georgetown University, azl9@georgetown.edu
+- Lucy Wu, Johns Hopkins University, lwu72@jhu.edu
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This solution can serve students from Johns Hopkins University (for hackathon track purposes), but is designed to work with any school listed on the Questbridge website: https://www.questbridge.org
+
+Our website is viewable here: http://questbridgeai.co/about
+
+Please feel free to contact us with any questions! We hope you enjoy talking with our chatbot.
