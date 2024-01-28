@@ -3,12 +3,12 @@ import sendIcon from './assets/sendicon.png';
 import TopBar from './TopBar';
 import BottomBar from './BottomBar';
 
-const aoai_endpoint = 'https://openai-chat-test-hoyahacks.openai.azure.com/'
-const aoai_key = 'c3ec992bee9c424298ebc59c67ff813d'
-const aoai_deployment_id = 'test-chatbot'
-const search_endpoint = 'https://questbridge-paid.search.windows.net'
-const search_key = '5fmPWMIV1STblFCWwfM8uPhxzhWK4r7NkdTkOs1ivrAzSeAXPnKg'
-const search_index = 'questbridge-ai'
+const aoai_endpoint = import.meta.env.VITE_AOAI_ENDPOINT;
+const aoai_key = import.meta.env.VITE_AOAI_KEY;
+const aoai_deployment_id = import.meta.env.VITE_AOAI_DEPLOYMENT_ID;
+const search_endpoint = import.meta.env.VITE_SEARCH_ENDPOINT;
+const search_key = import.meta.env.VITE_SEARCH_KEY;
+const search_index = import.meta.env.VITE_SEARCH_INDEX;
 
 const Chatbot = () => {
   const [question, setQuestion] = useState('');
@@ -106,8 +106,9 @@ const Chatbot = () => {
       >
         <input
           value={question}
-          className='w-[79vw] text-xl'
+          className='w-[79vw] text-xl pl-5'
           type='text'
+          placeholder="Enter a question to get started!"
           onChange={handleQuestionFieldChange}
         />
         <button 
