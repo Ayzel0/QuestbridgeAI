@@ -1,111 +1,107 @@
 import TopBar from "./TopBar";
 import BottomBar from "./BottomBar";
-import beforeAI from './assets/before.png';
-import afterAI from './assets/after.png';
 import fafsa from './assets/fafsa.png';
 import css from './assets/css.png';
 import QuestbridgeLogo from './assets/questbridgeLogo.png';
 import AzureLogo from './assets/AzureLogo.webp';
 import CloudforceLogo from './assets/cloudforceLogo.png';
 import OpenAILogo from './assets/OpenAILogo.png';
+import Icon from './Icon';
 
 const HowItWorks = () => {
   return (
     <div>
-      <TopBar />
-      <div className="flex-col justify-center mb-20 mt-10">
-        <div className="flex-col justify-center items-center mb-20">
-          <h2 className="text-2xl text-center mb-5">
-            Using a Chatbot <span className="text-indigo-400 font-bold">before</span> CollegeAI
+      <TopBar/>
+      <div className="flex-col justify-center">
+        <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
+          <h2 className='text-2xl text-white py-5'> &#128202; Driven by <span className='text-indigo-400 font-semibold'>data</span></h2>
+        </div>
+        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+          <h2 className="text-xl mb-5">
+            Using the most recent information from trusted university partners and sources, <br></br> we scraped information from <span className='text-indigo-400 font-semibold'>cost of attendance</span> to <span className='text-indigo-400 font-semibold'>student culture</span> so you don't have to look.
           </h2>
-          <div className="flex justify-center items-center">
-              <div className="hover:animate-pulse flex justify-center items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-100 w-auto mb-5 rounded-lg">
-                <img className=" h-60 w-auto" src={beforeAI} alt="OpenAI logo" />
-              </div>
-          </div>
-          <ul className="flex flex-col items-center text-xl gap-2 mb-10">
-            <li>&#10060; Not specific to the college</li>
-            <li>&#10060; Generic and easily searchable information</li>
-            <li>&#10060; Subject to change each application cycle</li>
-          </ul>
         </div>
-        <div className="flex-col justify-center items-center">
-          <h2 className="text-2xl text-center mb-5">
-            Using a Chatbot <span className="text-cyan-400 font-bold">after</span> CollegeAI
+        <div className="flex justify-center mb-10">
+          <Icon 
+            link={'https://www.questbridge.org/'}
+            imgSrc={QuestbridgeLogo}
+            altText={'questbridge logo'}
+          />
+        </div>
+        <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
+          <h2 className='text-2xl text-white py-5'> &#128218; We have <span className='text-cyan-400 font-semibold'>options</span></h2>
+        </div>
+        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+          <h2 className="text-xl mb-5">
+            Our chatbot is an expert on <span className='text-cyan-400 font-semibold'>every</span> institution on Questbridge,<br></br>so you can compare and contrast to find the <span className='text-cyan-400 font-semibold'>perfect fit</span>
           </h2>
-          <div className="flex justify-center items-center">
-            <div className="hover:animate-pulse flex justify-center items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-100 w-auto mb-5 rounded-lg">
-              <img className="h-40 w-auto" src={afterAI} alt="OpenAI logo" />
-            </div>
-          </div>
-          <ul className="flex flex-col items-center text-xl gap-2 mb-20">
-            <li>✅ Tailored directly to the institution and your situation</li>
-            <li>✅ Includes accurate emails and direct links for reliability</li>
-            <li>✅ Updated with the latest from trustworthy sources</li>
-          </ul>
         </div>
-        <h2 className="text-2xl text-center mb-5">
-          &#128202; Data driven, using the most recent information from trusted university partners
-        </h2>
         <div className="flex justify-center mb-10">
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://www.questbridge.org" target="_blank">
-              <img className="h-24" src={QuestbridgeLogo} alt="Questbridge logo" />
-            </a>
-          </div>
+          <Icon 
+            link={'https://www.questbridge.org/'}
+            imgSrc={QuestbridgeLogo}
+            altText={'questbridge logo'}
+          />
         </div>
-        <h2 className="text-2xl text-center mb-5">
-          &#128218; Works with any institution on Questbridge, so you can compare your options
-        </h2>
-        <div className="flex justify-center mb-10">
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://www.questbridge.org" target="_blank">
-              <img className="h-24" src={QuestbridgeLogo} alt="Questbridge logo" />
-            </a>
-          </div>
+        <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
+          <h2 className='text-2xl text-white py-5'> &#128184; Money <span className='text-indigo-400 font-semibold'>matters</span></h2>
         </div>
-        <h2 className="text-2xl text-center mb-5">
-          &#128184; Includes information about financial aid applications, so you never miss a deadline
-        </h2>
+        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+          <h2 className="text-xl mb-5">
+            We include <span className='text-indigo-400 font-semibold'>up-to-date</span> information about financial aid applications, <br></br>so you <span className='text-indigo-400 font-semibold'>never</span> miss a deadline
+          </h2>
+        </div>
         <div className="flex justify-center gap-10 mb-10">
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://studentaid.gov/h/apply-for-aid/fafsa" target="_blank">
-              <img className="h-14" src={fafsa} alt="fafsa logo" />
-            </a>
-          </div>
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://cssprofile.collegeboard.org" target="_blank">
-              <img className="h-20" src={css} alt="css logo" />
-            </a>
-          </div>
+          <div className='m-5'>
+            <Icon 
+              link={'https://studentaid.gov/h/apply-for-aid/fafsa'}
+              imgSrc={fafsa}
+              altText={'fafsa logo'}
+            />
+          </div> 
+          <div className='m-5'>
+            <Icon 
+              link={'https://cssprofile.collegeboard.org'}
+              imgSrc={css}
+              altText={'css logo'}
+            />
+          </div> 
         </div>
-        <h2 className="text-2xl text-center mb-5">
-          &#9729; Backed by leading cloud and artificial intelligence solutions
-        </h2>
+        <div className='bg-zinc-800 m-0 flex flex-row justify-center mb-5'>
+          <h2 className='text-2xl text-white py-5'> &#9729; Innovation is <span className='text-cyan-400 font-semibold'>key</span></h2>
+        </div>
+        <div className='flex max-w-[850px] w-auto mx-auto text-center'>
+          <h2 className="text-xl mb-5">
+            Our solution is backed by leading <br></br> <span className='text-cyan-400 font-semibold'>cloud</span> and <span className='text-cyan-400 font-semibold'>artificial intelligence</span> solutions in the industry
+          </h2>
+        </div>
         <div className="flex justify-center items-center gap-10 mb-10">
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://azure.microsoft.com/en-us/" target="_blank">
-              <img className="h-20" src={AzureLogo} alt="Microsoft Azure logo" />
-            </a>
+          <div className='m-5'>
+            <Icon 
+              link={'https://azure.microsoft.com/en-us/'}
+              imgSrc={AzureLogo}
+              altText={'azure logo'}
+            />
           </div>
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://gocloudforce.com" target="_blank">
-              <img className="h-6" src={CloudforceLogo} alt="Cloudforce logo" />
-            </a>
+          <div className='m-5'>
+            <Icon 
+              link={'https://gocloudforce.com'}
+              imgSrc={CloudforceLogo}
+              altText={'cloudforce logo'}
+            />
           </div>
-          <div className="hover:animate-pulse flex items-center bg-gradient-to-r from-indigo-200 to-cyan-200 p-4 h-28 rounded-lg">
-            <a href="https://openai.com" target="_blank">
-              <img className="h-28" src={OpenAILogo} alt="OpenAI logo" />
-            </a>
+          <div className='m-5'>
+            <Icon 
+              link={'https://openai.com'}
+              imgSrc={OpenAILogo}
+              altText={'openai logo'}
+            />
           </div>
         </div>
-        
         <div className="text-center">
-          <h3 className="text-2xl mb-3">Talk to our chatbot yourself!</h3>
-          <button className="hover:animate-pulse bg-indigo-400 hover:bg-cyan-400 text-white p-3 rounded-lg">
-            {/* Link this to the chatbot page */}
-            Ask me anything
-          </button>
+          <div className='bg-zinc-100 flex flex-row justify-center'>
+            <button className='rounded-full bg-cyan-300 hover:bg-cyan-400 py-4 px-8 my-10'>Try our Chatbot!</button>
+          </div>
         </div>
       </div>
       <BottomBar />
