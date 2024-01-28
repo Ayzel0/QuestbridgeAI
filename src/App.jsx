@@ -86,7 +86,7 @@ function App() {
           </div>
         </div>
         <div className='bg-zinc-100 flex flex-row justify-center'>
-          <button className='rounded-full bg-cyan-300 hover:bg-cyan-400 py-4 px-8 my-10'>Try our Chatbot!</button>
+          <a href={'/chatbot'} className='rounded-full bg-cyan-300 hover:bg-cyan-400 py-4 px-8 my-10'>Try our Chatbot!</a>
         </div>
         <BottomBar />
       </div>
