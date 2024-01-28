@@ -95,7 +95,7 @@ const Chatbot = () => {
             <p>{messages[index]}</p>
           </div>
           :
-          <div className='inline-block bg-slate-400 py-5 px-8 rounded-3xl my-5 ml-5'>...</div>
+          <div className='inline-block bg-slate-400 py-5 px-8 rounded-3xl my-5 ml-5 animate-pulse'>...</div>
           }
         </div>
       ))}
