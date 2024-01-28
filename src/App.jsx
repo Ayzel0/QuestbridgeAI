@@ -6,6 +6,10 @@ import OpenAILogo from './assets/OpenAILogo.png';
 import Icon from './Icon';
 import TopBar from './TopBar';
 import BottomBar from './BottomBar';
+import beforeAI from './assets/before.png'
+import afterAI from './assets/after.png'
+import fafsa from './assets/fafsa.png'
+import css from './assets/css.png'
 
 function App() {
   return (
