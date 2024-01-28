@@ -1,6 +1,6 @@
 # README
 
-Our solution is called Questbrdige AI, a chatbot trained on real college datat to provide access to information for students in need, particularly those that are first-generation and or/from low-income households.
+Our solution is called Questbridge AI, a chatbot trained on real college data to provide access to information for students in need, particularly those that are first-generation and or/from low-income households. We hope to further improve equity and accessibility for college admissions.
 
 Team members:
 - Andrew Lee, Georgetown University, azl9@georgetown.edu
