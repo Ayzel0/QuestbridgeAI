@@ -12,6 +12,7 @@ const TopBar = () => {
         >About</a>
         <a 
           className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'
+          href='/chatbot'
         >Chatbot</a>
         <a 
           className='underline-offset-4 hover:underline-offset-8 underline transition-all text-2xl my-8 mx-6 cursor-pointer text-white'

@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import HowItWorks from './HowItWorks.jsx';
+import Chatbot from './Chatbot.jsx';
 import About from './About.jsx';
 import {
   createBrowserRouter,
@@ -21,12 +22,14 @@ const router = createBrowserRouter([
   {
     path: '/about',
     element: <About />
+  },
+  {
+    path: '/chatbot',
+    element: <Chatbot />
   }
 ]);
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <RouterProvider router={router}/>
-  </React.StrictMode>,
+  <RouterProvider router={router}/>
 )

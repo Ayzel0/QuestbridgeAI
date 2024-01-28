@@ -5,6 +5,7 @@ import OpenAILogo from './assets/OpenAILogo.png';
 import Icon from './Icon';
 import TopBar from './TopBar';
 import BottomBar from './BottomBar';
+import Chatbot from './Chatbot';
 
 function App() {
   return (
